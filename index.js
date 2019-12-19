@@ -1,0 +1,1 @@
+$('.technicalTitle').html('<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=ad1a6eb05459cbecfaa479a0e8105a7bcb618ff7e1845a5002e9045c8656c2eb"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="桂金贵交流群" title="桂金贵交流群"></a>')
